@@ -1,2 +1,2 @@
 # SePowerPrivilege
-A PowerShell solution to managing user rights assignment from the command line
+A PowerShell solution to manage user rights assignment from the command line
